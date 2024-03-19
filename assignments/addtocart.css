@@ -1,0 +1,7 @@
+body {
+    color: rgb(93, 110, 114);
+    background-color: rgb(208, 217, 224);
+}
+#cart{
+    background-color: rgb(255, 255, 255); width: 214px; height: 100%; padding: 20px; float: right;
+}
